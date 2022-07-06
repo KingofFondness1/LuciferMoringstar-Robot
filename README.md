@@ -6,7 +6,7 @@
   <a href="https://youtu.be/LkY2feKT2k0">𝗟𝘂𝗰𝗶𝗳𝗲𝗿𝗠𝗼𝗿𝗶𝗻𝗴𝘀𝘁𝗮𝗿 𝗥𝗼𝗯𝗼𝘁</a>
 </p>
 
-<img src="https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" /> <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" />
+<img src="https://img.shields.io/github/star/KingofFondness1/LuciferMoringstar-Robot?style=social" /> <img src="https://img.shields.io/github/forks/KingofFondness1/LuciferMoringstar-Robot?style=social" />
 
 
 
@@ -32,7 +32,7 @@
 - [x] Custom Caption
 
 ### 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
-<a href="https://heroku.com/deploy?template=https://github.com/bossstory/LuciferMoringstar-Robot"><img src="https://github.com/KingofFondness1/LuciferMoringstar-Robot/tree/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Deploy-To-Heroku.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/KingofFondness1/LuciferMoringstar-Robot"><img src="https://github.com/KingofFondness1/LuciferMoringstar-Robot/tree/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Deploy-To-Heroku.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 
 
 ### 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱
