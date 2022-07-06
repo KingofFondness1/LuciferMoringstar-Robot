@@ -11,11 +11,11 @@ class LuciferMoringstar(object):
 
 🧑 My Creator : {dev_name}
 
-📦 My Source : [Click Here](https://github.com/bossstory/LuciferMoringstar-Robot)
+📦 My Source : [Click Here](https://github.com/KingofFondness1/LuciferMoringstar-Robot)
 
-📺 My Youtube : [Ckick Here](https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA)
+📺 My Youtube : [Ckick Here](https://www.youtube.com)
 
-🏷️ My Updates : [HOW TO DO](t.me/HTDGROUPFORMOVIES)
+🏷️ My Updates : [HOW TO DO](t.me/fondness_mov)
 
 🗣️ My Support : [Any Doubt](t.me/howtodoyt)"""
 
